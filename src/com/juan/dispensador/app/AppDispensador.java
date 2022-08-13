@@ -17,7 +17,6 @@ public class AppDispensador {
         dispensador1.llenarDispensador();
         dispensador2.vaciarDispensador();
 
-
         System.out.println(dispensador1.consultarCantidad());
         System.out.println(dispensador1.consultarTemperatura());
 
