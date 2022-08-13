@@ -52,7 +52,7 @@ public class Dispensador {
         return false;
     }
 
-    public boolean vacearDispensador(){
+    public boolean vaciarDispensador(){
         cantidadActual = 0;
         return false;
     }

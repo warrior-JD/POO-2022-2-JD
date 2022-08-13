@@ -15,7 +15,7 @@ public class AppDispensador {
         dispensador2.cambiarTemperatura(7);
         dispensador1.Servir(2000, negra);
         dispensador1.llenarDispensador();
-        dispensador2.vacearDispensador();
+        dispensador2.vaciarDispensador();
 
 
         System.out.println(dispensador1.consultarCantidad());
